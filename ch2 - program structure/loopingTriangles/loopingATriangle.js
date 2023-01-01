@@ -1,7 +1,7 @@
 /**
  * Function that builds a triangle of given size. Read: https://eloquentjavascript.net/02_program_structure.html#p_8imTrZ34w1
- * @param {*} n 
- * @returns 
+ * @param {*} n Number
+ * @returns String with a triangle of size n
  */
 const buildTriangle = (n) => {
     let str = "";
